@@ -44,3 +44,6 @@ com.leoao.fitness
 
 <--哔哩哔哩-->
 tv.danmaku.bili
+
+<--腾讯视频--> 
+com.tencent.qqlive
